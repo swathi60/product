@@ -1,0 +1,36 @@
+
+.ih:hover::after{ 
+    opacity:0.5;
+}
+.product .t1{
+    
+    font-family: "Amazon Ember",Arial,sans-serif;
+ font-size: x-large;
+}
+.product .im1:hover::after{
+
+    
+    content: "click to open expended view";
+}
+a, a:link, a:visited{ text-decoration: none;
+color: #007185;}
+a:hover{
+    
+    color: rgb(235, 45, 45);
+}
+a -webkit-any-link{
+    cursor: pointer;
+}
+#n73, #n83, #n93, #n94 a:link
+{
+    color: #007185;
+    font-size: medium;
+}
+.p21, .p3
+{
+border:1px solid rgb(185, 185, 185);
+border-radius: 5px;
+margin-top: 1px;
+padding-bottom: 10px;
+padding-left: 10px;
+}
